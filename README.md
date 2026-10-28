@@ -1,34 +1,15 @@
-<div align="center">
+# Marketing Skills Arsenal
 
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%8E%AF+MARKETING+SKILLS+ARSENAL;%E2%9A%A1+AI-Powered+Digital+Marketing+Toolkit" alt="Marketing Skills Arsenal" />
-</a>
+![Pixel Rocket](assets/rocket-pixel.svg)
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
-
-<br/>
-
-<a href="#-seo--content-skills"><img src="https://img.shields.io/badge/SEO_Skills-4+-00D4FF?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="SEO Skills" /></a>
-<img src="https://img.shields.io/badge/Ads_Skills-1+-FF6B6B?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117" alt="Ads Skills" />
-<img src="https://img.shields.io/badge/Content_Skills-5+-FFD93D?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D1117" alt="Content Skills" />
-<img src="https://img.shields.io/badge/Automation-3+-6BCB77?style=for-the-badge&logo=zapier&logoColor=white&labelColor=0D1117" alt="Automation" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=header&animation=twinkling" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+A curated arsenal...
 
 ## About
 
 > **A curated arsenal of AI-powered marketing skills, strategies, and automation workflows.**
 > Packaged as portable `.zip` skill modules — extract and deploy into your AI agent or marketing workflow.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## SEO & Content Skills
 
@@ -113,7 +94,7 @@ Marketing-skills/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer&animation=twinkling" width="100%" />
+
 
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-FF6B6B?style=for-the-badge&labelColor=0D1117)
 
