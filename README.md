@@ -9,9 +9,17 @@ A curated arsenal...
 > **A curated arsenal of AI-powered marketing skills, strategies, and automation workflows.**
 > Packaged as portable `.zip` skill modules — extract and deploy into your AI agent or marketing workflow.
 
+<div align="center">
+
+![SEO audit pixel animation](assets/seo-scan.gif) ![Performance growth pixel animation](assets/performance-growth.gif) ![Automation workflow pixel animation](assets/automation-flow.gif)
+
+</div>
+
 
 
 ## SEO & Content Skills
+
+![Pixel SEO scan](assets/seo-scan.gif)
 
 | Zip | Description |
 |---|---|
@@ -36,12 +44,16 @@ A curated arsenal...
 
 ## Advertising & Paid Media
 
+![Pixel performance growth](assets/performance-growth.gif)
+
 | Zip | Description |
 |---|---|
 | `landing-page.zip` | Landing page builder — hero sections, CTAs, trust signals, mobile-first design |
 | `performance-marketer.zip` | Performance marketer — funnel design, CPA optimization, ROAS tracking, attribution |
 
 ## Automation & Tools
+
+![Pixel automation workflow](assets/automation-flow.gif)
 
 | Zip | Description |
 |---|---|
@@ -75,6 +87,12 @@ Marketing-skills/
 │   ├── performance-marketer.zip
 │   ├── seo-content-writer.zip
 │   └── seo-off-page-backlinks.zip
+│
+├── 🎞️ Pixel-art animations
+│   ├── seo-scan.gif
+│   ├── performance-growth.gif
+│   ├── automation-flow.gif
+│   └── rocket-pixel.svg
 │
 └── 📖 README.md
 ```
